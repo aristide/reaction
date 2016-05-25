@@ -69,6 +69,11 @@ reactioncommerce:reaction-sample-data   # default Reaction data
 reactioncommerce:default-theme          # default Reaction theme
 # my:custom-theme                       # Example custom theme
 
+# Testing packages
+dispatch:mocha-phantomjs
+dispatch:mocha-browser
+dispatch:mocha
+
 # Forced version updates
 # mdg:validation-error@0.5.1
 
